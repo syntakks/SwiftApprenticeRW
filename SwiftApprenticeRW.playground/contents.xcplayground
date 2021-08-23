@@ -3,5 +3,7 @@
     <pages>
         <page name='ControlFlow'/>
         <page name='Doxygen'/>
+        <page name='Collections'/>
+        <page name='Structs'/>
     </pages>
 </playground>
