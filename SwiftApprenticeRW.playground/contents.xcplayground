@@ -7,5 +7,6 @@
         <page name='Structs'/>
         <page name='Classes'/>
         <page name='Enumerations'/>
+        <page name='Protocols'/>
     </pages>
 </playground>
