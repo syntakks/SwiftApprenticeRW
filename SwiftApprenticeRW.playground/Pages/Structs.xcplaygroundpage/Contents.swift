@@ -124,6 +124,10 @@ struct Circle {
  Keeping the compiler-generated initializer using extensions
  With the SimpleDate structure, you saw that once you added your own init(), the compiler-generated memberwise initializer disappeared. It turns out that you can keep both if you add your init() to an extension to SimpleDate:
  */
+let months = ["January", "February", "March",
+              "April", "May", "June",
+              "July", "August", "September",
+              "October", "November", "December"]
 
 struct SimpleDate {
   var month = "January"
